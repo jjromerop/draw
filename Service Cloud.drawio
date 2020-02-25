@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-25T00:34:01.783Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="UVCA318HQo24UmXbsQ55" version="12.7.4" type="github">
+<mxfile host="www.draw.io" modified="2020-02-25T00:45:09.286Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="CPj7BqdAaXW08aKFea0E" version="12.7.4" type="github">
   <diagram id="ag3dVYCGJuGmBB14NgHO" name="Page-1">
     <mxGraphModel dx="1186" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,7 +92,7 @@
           <mxGeometry x="514" y="637" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="snt15m9TcJzvURxw8jZ2-25" value="Self-Service from &lt;br&gt;Customer Community" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="465" y="752" width="180" height="50" as="geometry" />
+          <mxGeometry x="505" y="699" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="snt15m9TcJzvURxw8jZ2-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=17;fontColor=#000000;" edge="1" parent="1" source="snt15m9TcJzvURxw8jZ2-26" target="snt15m9TcJzvURxw8jZ2-29">
           <mxGeometry relative="1" as="geometry" />
@@ -156,6 +156,39 @@
         </mxCell>
         <mxCell id="snt15m9TcJzvURxw8jZ2-45" value="Auto-response&lt;br&gt;Rules" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="340" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="snt15m9TcJzvURxw8jZ2-46" value="Macros" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="314" y="781" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="snt15m9TcJzvURxw8jZ2-47" value="Quick Texts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="415" y="814" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="snt15m9TcJzvURxw8jZ2-48" value="Utilities" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="521" y="782" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="snt15m9TcJzvURxw8jZ2-49" value="Email&lt;br&gt;Templates" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="441" y="631" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="snt15m9TcJzvURxw8jZ2-50" value="Omni-Channel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="164" y="783" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="snt15m9TcJzvURxw8jZ2-51" value="Entitlement&lt;br&gt;Management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="233" y="822" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="snt15m9TcJzvURxw8jZ2-52" value="Page Layout" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="424" y="776" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="snt15m9TcJzvURxw8jZ2-53" value="Queues" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="343" y="655" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="snt15m9TcJzvURxw8jZ2-54" value="Assignment Rules" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="511" y="608" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="snt15m9TcJzvURxw8jZ2-55" value="Escalation Rules" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="687" y="658" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="snt15m9TcJzvURxw8jZ2-56" value="Auto-Response&lt;br&gt;Rules" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="687" y="715" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
