@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-25T00:45:09.286Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="CPj7BqdAaXW08aKFea0E" version="12.7.4" type="github">
+<mxfile host="www.draw.io" modified="2020-02-25T18:09:30.571Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="9JviF6Ra3W-dC79dmF9S" version="12.7.4" type="github">
   <diagram id="ag3dVYCGJuGmBB14NgHO" name="Page-1">
     <mxGraphModel dx="1186" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,14 +104,14 @@
         </mxCell>
         <mxCell id="snt15m9TcJzvURxw8jZ2-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="snt15m9TcJzvURxw8jZ2-26" target="snt15m9TcJzvURxw8jZ2-45">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="1090" as="targetPoint" />
+            <mxPoint x="376" y="1187" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="snt15m9TcJzvURxw8jZ2-26" value="Service&lt;br&gt;Cloud" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="360" y="960" width="80" height="80" as="geometry" />
+          <mxGeometry x="336" y="1057" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="snt15m9TcJzvURxw8jZ2-27" value="Case Routing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="340" y="903" width="120" height="30" as="geometry" />
+          <mxGeometry x="316" y="1000" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="snt15m9TcJzvURxw8jZ2-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;fontColor=#000000;" edge="1" parent="1" source="snt15m9TcJzvURxw8jZ2-28" target="snt15m9TcJzvURxw8jZ2-26">
           <mxGeometry relative="1" as="geometry" />
@@ -122,16 +122,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="snt15m9TcJzvURxw8jZ2-28" value="Channel/Case Type" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="100" y="985" width="160" height="30" as="geometry" />
+          <mxGeometry x="76" y="1082" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="snt15m9TcJzvURxw8jZ2-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="snt15m9TcJzvURxw8jZ2-29" target="snt15m9TcJzvURxw8jZ2-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="snt15m9TcJzvURxw8jZ2-29" value="Who" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="570" y="985" width="50" height="30" as="geometry" />
+          <mxGeometry x="546" y="1082" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="snt15m9TcJzvURxw8jZ2-37" value="Area&lt;br&gt;Person&lt;br&gt;Group of People" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="645" y="975" width="100" height="50" as="geometry" />
+          <mxGeometry x="621" y="1072" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="snt15m9TcJzvURxw8jZ2-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="snt15m9TcJzvURxw8jZ2-38" target="snt15m9TcJzvURxw8jZ2-37">
           <mxGeometry relative="1" as="geometry" />
@@ -143,7 +143,7 @@
         </mxCell>
         <mxCell id="snt15m9TcJzvURxw8jZ2-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="snt15m9TcJzvURxw8jZ2-38">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="500" y="1010" as="targetPoint" />
+            <mxPoint x="476" y="1107" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="snt15m9TcJzvURxw8jZ2-43" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=12;fontColor=#000000;" vertex="1" connectable="0" parent="snt15m9TcJzvURxw8jZ2-42">
@@ -152,10 +152,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="snt15m9TcJzvURxw8jZ2-38" value="Does it need escalate?" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="555" y="1040" width="80" height="80" as="geometry" />
+          <mxGeometry x="531" y="1137" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="snt15m9TcJzvURxw8jZ2-45" value="Auto-response&lt;br&gt;Rules" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1100" width="120" height="60" as="geometry" />
+          <mxGeometry x="316" y="1197" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="snt15m9TcJzvURxw8jZ2-46" value="Macros" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="314" y="781" width="50" height="20" as="geometry" />
@@ -189,6 +189,24 @@
         </mxCell>
         <mxCell id="snt15m9TcJzvURxw8jZ2-56" value="Auto-Response&lt;br&gt;Rules" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="687" y="715" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="snt15m9TcJzvURxw8jZ2-57" value="Call Center&lt;br&gt;&amp;amp;&lt;br&gt;Open CTI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="76" y="703" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="snt15m9TcJzvURxw8jZ2-58" value="Social Customer&lt;br&gt;Service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="63" y="604" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="snt15m9TcJzvURxw8jZ2-59" value="Chat &amp;amp; Embedded&lt;br&gt;Service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="20" y="675" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="snt15m9TcJzvURxw8jZ2-60" value="&lt;span style=&quot;color: rgb(30 , 30 , 28) ; font-family: &amp;#34;salesforce sans&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; white-space: normal ; background-color: rgb(255 , 255 , 255)&quot;&gt;Snap-ins for Mobile &amp;amp; SOS&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="614" y="793" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="snt15m9TcJzvURxw8jZ2-61" value="&lt;span style=&quot;color: rgb(30 , 30 , 28) ; font-family: &amp;#34;salesforce sans&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; white-space: normal ; background-color: rgb(255 , 255 , 255)&quot;&gt;Messaging&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="581" y="842" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="snt15m9TcJzvURxw8jZ2-62" value="Field Service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="501" y="885" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
